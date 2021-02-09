@@ -1,0 +1,19 @@
+D:\vb\RJ Entertainment\RJ Entertainment\bin\Debug\RJ Entertainment.exe.config
+D:\vb\RJ Entertainment\RJ Entertainment\bin\Debug\RJ Entertainment.exe
+D:\vb\RJ Entertainment\RJ Entertainment\bin\Debug\RJ Entertainment.pdb
+D:\vb\RJ Entertainment\RJ Entertainment\bin\Debug\RJ Entertainment.xml
+D:\vb\RJ Entertainment\RJ Entertainment\bin\Debug\Interop.WMPLib.dll
+D:\vb\RJ Entertainment\RJ Entertainment\bin\Debug\AxInterop.WMPLib.dll
+D:\vb\RJ Entertainment\RJ Entertainment\obj\Debug\RJ Entertainment.vbprojResolveAssemblyReference.cache
+D:\vb\RJ Entertainment\RJ Entertainment\obj\Debug\Interop.WMPLib.dll
+D:\vb\RJ Entertainment\RJ Entertainment\obj\Debug\AxInterop.WMPLib.dll
+D:\vb\RJ Entertainment\RJ Entertainment\obj\Debug\RJ Entertainment.vbproj.ResolveComReference.cache
+D:\vb\RJ Entertainment\RJ Entertainment\obj\Debug\RJ_Entertainment.Final.resources
+D:\vb\RJ Entertainment\RJ Entertainment\obj\Debug\RJ_Entertainment.Form1.resources
+D:\vb\RJ Entertainment\RJ Entertainment\obj\Debug\RJ_Entertainment.Resources.resources
+D:\vb\RJ Entertainment\RJ Entertainment\obj\Debug\RJ_Entertainment.Videoply.resources
+D:\vb\RJ Entertainment\RJ Entertainment\obj\Debug\RJ Entertainment.vbproj.GenerateResource.Cache
+D:\vb\RJ Entertainment\RJ Entertainment\obj\Debug\RJ Entertainment.exe
+D:\vb\RJ Entertainment\RJ Entertainment\obj\Debug\RJ Entertainment.xml
+D:\vb\RJ Entertainment\RJ Entertainment\obj\Debug\RJ Entertainment.pdb
+D:\vb\RJ Entertainment\RJ Entertainment\obj\Debug\RJ_Entertainment.SplashScreen1.resources
